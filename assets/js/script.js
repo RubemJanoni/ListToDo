@@ -20,7 +20,7 @@ function handleKeyUp(e)
         const lis = document.querySelectorAll('.task');
         lis.forEach(item => {
             item.style.display = 'none';
-        })
+        });
         const newLi = document.createElement('li');
         newLi.innerHTML = input.value;
         list.appendChild(newLi);
