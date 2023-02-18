@@ -30,29 +30,17 @@ The main section initially presents a standard task list, which is replaced by d
 
 
 
-## The Gallery Section
+## Data manipulation
 
-The Gallery section presents two basic poses of Yoga, through two images, between the images a mini class was introduced, "Yoga poses for Beginners", presenting the main movements of Yoga. The video was embedded from Youtube, saving your storage space.
+Data manipulation takes place through the input, which receives data from the user and after pressing the "Enter" key, sends the data to the section above. The "Reset" and "Print" buttons complement the functionality.
 
-![gallery02](https://user-images.githubusercontent.com/86210555/212209782-cde5f079-102b-4c8e-98aa-6170d49b94e5.jpg)
-
-## The Contact Form
-
-The contact section presents a form, consisting of 3 inputs, "Name:", "Email" and "Message" allowing the collection of user data, as well as contact with the user, in order to offer proximity to the user.
-
-
-![contact01](https://user-images.githubusercontent.com/86210555/212211515-8b787fae-11ca-4f45-9f26-b57b9ac2a94f.jpg)
+![input](https://github.com/RubemJanoni/ListToDo/blob/main/assets/images/maketodo06.jpg)
 
 ## The Footer
 
-![footer01](https://user-images.githubusercontent.com/86210555/212212472-a1bb5edc-cac9-4ed2-94b5-f32f42f65471.jpg)
+The Footer consists only of displaying the site name and copyright.
 
-
-The footer section includes links to the relevant social media sites for Life Yoga Club, changing color on hover.
-
-The links will open to a new tab to allow easy navigation for the user.
-
-The footer is valuable to the user as it encourages them to keep connected via social media
+![footer](https://github.com/RubemJanoni/ListToDo/blob/main/assets/images/maketodo07.jpg)
 
 ## Testing
 
