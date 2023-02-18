@@ -15,22 +15,18 @@ Navigation is simple and intuitive, with an area for displaying the list, an inp
 
 ## The Header
 
-The header consists of the logo on the left and the navigation links on the right, whitesmoke white colors were used for the logo and navigation links, however when active, the link incorporates the color yellow (#e3c15c).
 
-When hovering the mouse over the navigation links, a border appears in the background, highlighting the element and helping the user navigate.
+The header only consists of a logo on the left and the title on the right.
 
-![menu01](https://user-images.githubusercontent.com/86210555/212197409-6baa5a9f-888c-4c07-902b-97eb3ce6c4c4.jpg)
-
+![header](https://github.com/RubemJanoni/ListToDo/blob/main/assets/images/maketodo05.jpg)
 
 
-## The About Section
 
-The about section tells a little about the history, the meaning of Yoga, its benefits to health, body and mind.
-It also informs the user, the advantages and benefits after becoming a member of the club.
+## The Section
 
-As background, a transparency was used, but allowing good legibility of the font, at the same time allowing the visualization of the background image.
+The main section initially presents a standard task list, which is replaced by data entered by the user, through element manipulation.
 
-![about](https://user-images.githubusercontent.com/86210555/212206517-95c6b5bb-d990-40a6-9c67-6ce59bcd1e5d.jpg)
+![main-section](https://user-images.githubusercontent.com/86210555/212206517-95c6b5bb-d990-40a6-9c67-6ce59bcd1e5d.jpg)
 
 
 
