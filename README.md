@@ -46,8 +46,9 @@ The Footer consists only of displaying the site name and copyright.
 
 - I tested that this page works in different browsers: Chrome, Firefox, Safari.
 - I confirmed that this project is responsive, looks good and functions on all standard screen sizes using the devtools device toolbar.
-- I confirmed that the navigation, header, about, gallery and contact text are all readable and easy to understand.
-- I have confirmed that the form works: requires entries in every field, will only accept an email in the email field and the submit button works.
+- I confirmed that the navigation and text are all readable and easy to understand.
+
+
 
 ## Validator Testing
 
@@ -58,12 +59,16 @@ The Footer consists only of displaying the site name and copyright.
   - No errors were found when passing through the official (Jigsaw) validator.
 
     <p>
-        <a href="http://jigsaw.w3.org/css-validator/check/referer">
-            <img style="border:0;width:88px;height:31px"
-                src="http://jigsaw.w3.org/css-validator/images/vcss"
-                alt="CSS válido!" />
-        </a>
+    <a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="http://jigsaw.w3.org/css-validator/images/vcss"
+            alt="CSS válido!" />
+    </a>
     </p>
+    
+- JavaScript
+  - No errors were found when passing through the official (JsHint) validator.        
+    
     
 - ACCESSIBILITY
   - I confirmed that the colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools.
@@ -75,7 +80,8 @@ The Footer consists only of displaying the site name and copyright.
      
 
 
-    ![lighthouse-validation](https://user-images.githubusercontent.com/86210555/212221921-ecae458d-6a35-4201-b7f5-b2fa0f458778.jpg)
+    ![lighthouse-validation](https://github.com/RubemJanoni/ListToDo/blob/main/assets/images/maketodo02.jpg)
+
     
 ### Unfixed bugs
 
@@ -89,21 +95,9 @@ No unfixed bugs
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
   
   
-The live link can be found here - [Life Yoga Club](https://rubemjanoni.github.io/code-project01/)
+The live link can be found here - [List To Do](https://rubemjanoni.github.io/ListToDo/)
 
-## Credits
 
-### Content
-
-- The code to make the social media links was taken from the CI [Love Running](https://code-institute-org.github.io/love-running-2.0/index.html) project.
-
-### Media
-
-- The background image was taken from [Pexels](https://www.pexels.com/pt-br/).
-
-- The video in the gallery was taken from Youtube.
-
-- The audio in the Home was taken from [Bensound](https://www.bensound.com/)
 
 
 
