@@ -1,108 +1,133 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Life Yoga Club
 
-Welcome Rubem Janoni,
+Life Yoga Club is a website that aims to show the user a little bit about the art of Yoga and its health benefits, presenting the basic positions, through images and a video containing an initial class. After a brief introduction, the user has the opportunity to contact the club for further queries, using the contact form.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+![responsive-site2](https://user-images.githubusercontent.com/86210555/212193131-ca06ac90-a441-420e-a62d-fc3ae0af3059.png)
 
-## Gitpod Reminders
+## Features
+- Navigation
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+Feature at the top of the page, the navigation shows the yoga club name in the left corner: Life Yoga Club that links to the index page.
+The other navigation links are to the right: Home, About, Gallery and Contact form.
 
-`python3 -m http.server`
+The navigation links take the user to different sections in an easy and intuitive way.
 
-A blue button should appear to click: _Make Public_,
+## The Header
 
-Another blue button should appear to click: _Open Browser_.
+The header consists of the logo on the left and the navigation links on the right, whitesmoke white colors were used for the logo and navigation links, however when active, the link incorporates the color yellow (#e3c15c).
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+When hovering the mouse over the navigation links, a border appears in the background, highlighting the element and helping the user navigate.
 
-A blue button should appear to click: _Make Public_,
+![menu01](https://user-images.githubusercontent.com/86210555/212197409-6baa5a9f-888c-4c07-902b-97eb3ce6c4c4.jpg)
 
-Another blue button should appear to click: _Open Browser_.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
 
-To log into the Heroku toolbelt CLI:
+## The About Section
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+The about section tells a little about the history, the meaning of Yoga, its benefits to health, body and mind.
+It also informs the user, the advantages and benefits after becoming a member of the club.
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+As background, a transparency was used, but allowing good legibility of the font, at the same time allowing the visualization of the background image.
 
-------
+![about](https://user-images.githubusercontent.com/86210555/212206517-95c6b5bb-d990-40a6-9c67-6ce59bcd1e5d.jpg)
 
-## Release History
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+## The Gallery Section
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+The Gallery section presents two basic poses of Yoga, through two images, between the images a mini class was introduced, "Yoga poses for Beginners", presenting the main movements of Yoga. The video was embedded from Youtube, saving your storage space.
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+![gallery02](https://user-images.githubusercontent.com/86210555/212209782-cde5f079-102b-4c8e-98aa-6170d49b94e5.jpg)
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+## The Contact Form
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+The contact section presents a form, consisting of 3 inputs, "Name:", "Email" and "Message" allowing the collection of user data, as well as contact with the user, in order to offer proximity to the user.
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+![contact01](https://user-images.githubusercontent.com/86210555/212211515-8b787fae-11ca-4f45-9f26-b57b9ac2a94f.jpg)
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+## The Footer
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+![footer01](https://user-images.githubusercontent.com/86210555/212212472-a1bb5edc-cac9-4ed2-94b5-f32f42f65471.jpg)
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+The footer section includes links to the relevant social media sites for Life Yoga Club, changing color on hover.
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+The links will open to a new tab to allow easy navigation for the user.
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+The footer is valuable to the user as it encourages them to keep connected via social media
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+## Testing
 
-------
+- I tested that this page works in different browsers: Chrome, Firefox, Safari.
+- I confirmed that this project is responsive, looks good and functions on all standard screen sizes using the devtools device toolbar.
+- I confirmed that the navigation, header, about, gallery and contact text are all readable and easy to understand.
+- I have confirmed that the form works: requires entries in every field, will only accept an email in the email field and the submit button works.
 
-## FAQ about the uptime script
+## Validator Testing
 
-**Why have you added this script?**
+- HTML
+  - No errors were returned when passing through the official W3C validator.
+  
+- CSS
+  - No errors were found when passing through the official (Jigsaw) validator.
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
+    <p>
+        <a href="http://jigsaw.w3.org/css-validator/check/referer">
+            <img style="border:0;width:88px;height:31px"
+                src="http://jigsaw.w3.org/css-validator/images/vcss"
+                alt="CSS válido!" />
+        </a>
+    </p>
+    
+- ACCESSIBILITY
+  - I confirmed that the colors and fonts chosen are easy to read and accessible by running it through lighthouse in devtools.
+  
+  
 
-**How will this affect me?**
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
+         
+     
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
+    ![lighthouse-validation](https://user-images.githubusercontent.com/86210555/212221921-ecae458d-6a35-4201-b7f5-b2fa0f458778.jpg)
+    
+### Unfixed bugs
 
-**So….?**
+No unfixed bugs
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
+## Deployment
 
-**Can I opt out?**
+- The site was deployed to GitHub pages. The steps to deploy are as follows:
+  - In the GitHub repository, navigate to the Settings tab.
+  - From the source section drop-down menu, select the Master Branch.
+  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+  
+  
+The live link can be found here - [Life Yoga Club](https://rubemjanoni.github.io/code-project01/)
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
+## Credits
 
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
+### Content
 
-**Anything more?**
+- The code to make the social media links was taken from the CI [Love Running](https://code-institute-org.github.io/love-running-2.0/index.html) project.
 
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
+### Media
 
----
+- The background image was taken from [Pexels](https://www.pexels.com/pt-br/).
 
-Happy coding!
+- The video in the gallery was taken from Youtube.
+
+- The audio in the Home was taken from [Bensound](https://www.bensound.com/)
+
+
+
+
+    
+ 
+    
+    
+
+         
+
