@@ -26,7 +26,7 @@ The header only consists of a logo on the left and the title on the right.
 
 The main section initially presents a standard task list, which is replaced by data entered by the user, through element manipulation.
 
-![main-section](https://user-images.githubusercontent.com/86210555/212206517-95c6b5bb-d990-40a6-9c67-6ce59bcd1e5d.jpg)
+![main-section](https://github.com/RubemJanoni/ListToDo/blob/main/assets/images/maketodo01.jpg)
 
 
 
