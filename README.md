@@ -2,6 +2,8 @@
 
 List To Do is a tool that offers the user to print a list of tasks, in a quick and practical way.
 
+![responsive-image](https://github.com/RubemJanoni/ListToDo/blob/main/assets/images/maketodo04.jpg?raw=true)
+
 
 
 
@@ -9,10 +11,7 @@ List To Do is a tool that offers the user to print a list of tasks, in a quick a
 ## Features
 - Navigation
 
-Feature at the top of the page, the navigation shows the yoga club name in the left corner: Life Yoga Club that links to the index page.
-The other navigation links are to the right: Home, About, Gallery and Contact form.
-
-The navigation links take the user to different sections in an easy and intuitive way.
+Navigation is simple and intuitive, with an area for displaying the list, an input for receiving data and two buttons, Reset and Print, to reset the screen and print, respectively.
 
 ## The Header
 
