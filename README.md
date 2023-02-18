@@ -13,6 +13,9 @@ List To Do is a tool that offers the user to print a list of tasks, in a quick a
 
 Navigation is simple and intuitive, with an area for displaying the list, an input for receiving data and two buttons, Reset and Print, to reset the screen and print, respectively.
 
+### Features Left to Implement
+- When there is time, I would like to implement the print function assigned to the "Print" button, so that the user can print his to-do list.
+
 ## The Header
 
 
